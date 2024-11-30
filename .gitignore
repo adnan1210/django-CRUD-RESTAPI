@@ -1,0 +1,48 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Virtual environment directories
+venv/
+env/
+*.env
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+*.db
+
+# Media files
+media/
+
+# Static files (can be generated via collectstatic)
+static/
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# Mac OS X specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# pipenv files
+Pipfile.lock
+
+# dotenv environment variable files
+.env
+
+# MySQL DB
+*.sql
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
